@@ -1,6 +1,10 @@
 /*  your css code here. If applicable */
-*{
+.main{
 	background-color:yellow;
 	align-text:center;
+}
+img{
+	width:300px;
+	height:300px;
 }
 
